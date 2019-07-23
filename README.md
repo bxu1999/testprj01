@@ -36,9 +36,16 @@ Now commit inside Atom IDE...
 No upstream branch in git-plus
 ...
 $ git push -u
+
 Everything up-to-date
+
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
+
 bxu@DESKTOP-90870S4 MINGW64 /c/gitsrc/testprj01 (master)
+
 $
+
 ...
+
+new change...
