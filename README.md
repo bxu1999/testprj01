@@ -28,3 +28,5 @@ git push -u origin master
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 change #002 -> #003 -> #004 -> #005
+
+commit changes using https repo URL...
