@@ -27,4 +27,4 @@ git push -u origin master
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-change #002 -> #003
+change #002 -> #003 -> #004
